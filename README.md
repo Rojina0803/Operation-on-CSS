@@ -1,5 +1,4 @@
 
-Sure, here's a basic README file for your HTML code:
 
 HTML Border Style Example
 This is a simple HTML document demonstrating the use of CSS to apply a border style to a paragraph.
